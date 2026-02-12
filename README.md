@@ -41,7 +41,7 @@ Decoder
 - Skip connections
 - Atrous Spatial Pyramid Pooling (ASPP)
 - Final binary segmentation output
-
+![Model _arthitecture](https://github.com/user-attachments/assets/7be40f5b-6b03-4d67-b893-6bd562817792)
 ## Datasets
 
 Liver Segmentation  
@@ -77,11 +77,19 @@ Preprocessing steps:
 | MiT-B3   | **96.03** | **7.49**  |
 | MiT-B5   | 95.13    | 10.50     |
 
-### 🫁 Lung Segmentation (COVID-19 CT)
+###  Lung Segmentation (COVID-19 CT)
 
 | Model | Dice (%) | HD95 (mm) |
 |-------|----------|-----------|
 | SSNet (Ours) | **96.03** | **3.65** |
+
+### Test Image Results 
+1. For Liver Dataset
+   <img width="2950" height="5984" alt="test_samples_visualization (1)" src="https://github.com/user-attachments/assets/a87096c3-7a3c-4389-bce1-87dfc652ebed" />
+   
+2. For Lung Dataset
+   
+   <img width="432" height="562" alt="image" src="https://github.com/user-attachments/assets/88157a9a-11fb-491c-af08-b7fa055b9803" />
 
 MiT-B3 provided the best balance between accuracy and computational efficiency.
 
@@ -113,4 +121,5 @@ This repository documents the methodology, architectural design, and experimenta
 
 - [Thanuja Bobbepalli](https://github.com/thanuja-bobbepalli)
 - [Bala Shankar Tataji Ommi](linkedin.com/in/bala-shankar-tataji)
+  
 Note: Source code is not publicly shared. This repository documents the research methodology and experimental results.
