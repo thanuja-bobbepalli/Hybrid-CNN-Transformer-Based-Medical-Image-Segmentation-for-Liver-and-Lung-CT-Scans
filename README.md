@@ -108,10 +108,9 @@ This repository documents the methodology, architectural design, and experimenta
 - Self-supervised or pretrained initialization
 - Extension to additional anatomical structures
 
-## Contributors
-**Thanuja Bobbepalli**  
+
 ## Contributors
 
 - [Thanuja Bobbepalli](https://github.com/thanuja-bobbepalli)
-- [Thanuja Bobbepalli](linkedin.com/in/bala-shankar-tataji)
+- [Bala Shankar Tataji Ommi](linkedin.com/in/bala-shankar-tataji)
 Note: Source code is not publicly shared. This repository documents the research methodology and experimental results.
