@@ -92,7 +92,12 @@ The proposed hybrid model achieved competitive or superior performance compared 
 **Hybrid CNN–Transformer Based Medical Image Segmentation for Liver and Lung CT Scans**
 
 📄 Full Paper (PDF):  
-[Download Paper](Hybrid_CNN_Transformer_Medical_Segmentation.pdf)
+<p>
+<strong>Hybrid CNN–Transformer Based Medical Image Segmentation for Liver and Lung CT Scans</strong><br>
+<a href="https://raw.githubusercontent.com/thanuja-bobbepalli/Hybrid-CNN-Transformer-Based-Medical-Image-Segmentation-for-Liver-and-Lung-CT-Scans/main/Hybrid_CNN_Transformer_Based_Medical_Image_Segmentation_for_Liver_and_Lung_CT_Scans.pdf" target="_blank">
+📄 View Full Paper (PDF)
+</a>
+</p>
 
 This repository documents the methodology, architectural design, and experimental findings presented at the conference. The implementation is a faithful adaptation of an SSNet-style hybrid CNN–Transformer architecture for medical CT image segmentation.
 
@@ -103,13 +108,10 @@ This repository documents the methodology, architectural design, and experimenta
 - Self-supervised or pretrained initialization
 - Extension to additional anatomical structures
 
-## Author
+## Contributors
+**Thanuja Bobbepalli**  
+## Contributors
 
-[Your Name]
-
-Research Interests:
-Medical Image Segmentation  
-Hybrid CNN–Transformer Architectures  
-Deep Learning for Healthcare
-
+- [Thanuja Bobbepalli](https://github.com/thanuja-bobbepalli)
+- [Thanuja Bobbepalli](linkedin.com/in/bala-shankar-tataji)
 Note: Source code is not publicly shared. This repository documents the research methodology and experimental results.
